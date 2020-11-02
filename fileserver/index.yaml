@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fileserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-11-02T11:43:01.433130372-05:00"
+    description: A Helm chart for Kubernetes
+    digest: f4bdccac197b31e26e8236153a985d8af82a3adaff47d2f1c48f1c76896531d7
+    name: fileserver
+    type: application
+    urls:
+    - https://cccs-cat001.github.io/simple-fileserver-helm/fileserver-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-02T11:43:01.432294276-05:00"
